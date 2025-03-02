@@ -23,11 +23,3 @@ Os exercícios estão divididos nos seguintes tópicos:
 
 6. **Praticando com Collections e Outras Classes Úteis do Java**
     - Manipulação de coleções (List, Set, Map) e uso de classes utilitárias como `Arrays`, `Collections`, e `Streams`.
-
----
-
-## Como Usar Este Repositório
-
-### Estrutura do Repositório
-
-O repositório está organizado da seguinte forma:
